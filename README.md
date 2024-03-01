@@ -15,37 +15,34 @@
 - [Funcionalidades do Projeto](#funcionalidades-do-projeto)
 - [Tecnologias Utilizadas](#tecnolgias-utilizadas)
 - [Layouts](#layouts)
-  - [Desktop Layout](#desktop-layout)
-  - [Tablet Layout](#tablet-layout)
-  - [Mobile Layout](#mobile-layout)
-- [Adaptações](#adaptações)
 - [Autor](#autor)
 
 ## Sobre o Projeto
 
+Projeto instruindo por [Vanessa Tonini](https://github.com/vanessametonini), desenvolvedora web a mais de 10 anos e instrutora alura.
 
+Esse projeto, do curso ["JavaScript para Web: Crie páginas dinâmicas"](https://cursos.alura.com.br/course/javascript-web-paginas-dinamicas), tem como base o uso do JavaScript, sendo o principal objetivo tornar uma página interativa.
 
 ## Objetivos do Projeto
 
-
+- Ligação do JavaScript com HTML;
+- Aprender sobre possibildades de resolução de problemas;
+- Produzir soluções simples para páginas dinamicas.
 
 ## Funcionalidades do Projeto
 
-
+Esse projeto possui **9 botões**. Cada botão **emitira um som especifico** mencionado em seu nome vermelho.
 
 ## Tecnolgias Utilizadas
 
-
+1. HTML
+2. CSS
+3. JS
 
 ## Layouts
 
-### Desktop Layout
-
-### Tablet Layout
-
-### Mobile Layout
-
-## Adaptações
+**Width: 768px** <br>
+<img src="https://github.com/coelhoalexandre/projetos-alura/blob/main/imagens/alura-midi-768px.jpg" alt="Alura MIDI">
 
 ## Autor
 
