@@ -19,7 +19,7 @@
 
 ## Sobre o Projeto
 
-Projeto instruindo por [Vanessa Tonini](https://github.com/vanessametonini), desenvolvedora web a mais de 10 anos e instrutora alura.
+Projeto instruindo por [**Vanessa Tonini**](https://github.com/vanessametonini), desenvolvedora web a mais de 10 anos e instrutora alura.
 
 Esse projeto, do curso ["JavaScript para Web: Crie páginas dinâmicas"](https://cursos.alura.com.br/course/javascript-web-paginas-dinamicas), tem como base o uso do JavaScript, sendo o principal objetivo tornar uma página interativa.
 
@@ -46,10 +46,7 @@ Esse projeto possui **9 botões**. Cada botão **emitira um som especifico** men
 
 ## Autor
 
-- Nome(s), redes e forma de contato. 
-- Talvez um breve resumo sobre cada um.
-
-Meu nome é **Alexandre Coelho**, sou autor deste ReadMe e estudante de Desenvolvimento Web. [Falar sobre meu papel no projeto, seu eu fiz tudo ou só modifiquei.
+Meu nome é **Alexandre Coelho**, sou autor deste ReadMe e estudante de Desenvolvimento Web. Com a instrução de [**Vanessa Tonini**](https://github.com/vanessametonini), aprendi sobre a ligação do JavaScript no HTML e a reprodução de audio ao pressionar um botão. Todo o HTML e CSS já estava pronto.
 
 Logo abaixo estão os meus principais links, fique a vontade de acessar o que mais lhe interessar:
 
